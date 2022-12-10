@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_first_gatsby_proj=self.webpackChunkmy_first_gatsby_proj||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return s}});var n=l(7294),r=l(8962);t.default=()=>n.createElement("div",null,n.createElement(r.default,null),"Hello This is my first Gatsby Project");const s=()=>n.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-ec75b775c85a7f6c6350.js.map

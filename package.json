@@ -1,0 +1,24 @@
+{
+  "name": "my-first-gatsby-proj",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-first-gatsby-proj",
+  "author": "Ke",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "gatsby": "^5.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
